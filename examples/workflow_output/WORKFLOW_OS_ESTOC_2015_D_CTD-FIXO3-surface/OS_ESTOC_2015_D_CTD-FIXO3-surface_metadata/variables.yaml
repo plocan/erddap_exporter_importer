@@ -1,0 +1,16 @@
+variables:
+  TEMP:
+    long_name: "Sea water temperature"
+    sdn_parameter_uri: "http://vocab.nerc.ac.uk/collection/P01/current/TEMPST01"
+    sdn_uom_uri: "http://vocab.nerc.ac.uk/collection/P06/current/UPAA/"
+    standard_name: "sea_water_temperature"
+  CNDC:
+    long_name: "sea water electrical conductivity"
+    sdn_parameter_uri: "http://vocab.nerc.ac.uk/collection/P01/current/CNDCST01/"
+    sdn_uom_uri: "http://vocab.nerc.ac.uk/collection/P06/current/UECA/"
+    standard_name: "sea_water_electrical_conductivity"
+  PSAL:
+    long_name: "sea water salinity"
+    sdn_parameter_uri: "http://vocab.nerc.ac.uk/collection/P01/current/PSALST01/"
+    sdn_uom_uri: "http://vocab.nerc.ac.uk/collection/P06/current/UUUU/"
+    standard_name: "sea_water_salinity"

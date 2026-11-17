@@ -1,0 +1,12 @@
+variables:
+  CPHL:
+    long_name: "The amount (mass or quantity of matter) of the pigment chlorophyll-a\
+      \ per amount (volume or mass) of a body of water"
+    sdn_parameter_uri: "https://vocab.nerc.ac.uk/collection/P01/current/CPHLPM01/"
+    sdn_uom_uri: "https://vocab.nerc.ac.uk/collection/P06/current/UMMC/"
+    standard_name: "mass_concentration_of_chlorophyll_in_sea_water"
+  TUR4:
+    long_name: "Turbidity of water in the water body"
+    sdn_parameter_uri: "https://vocab.nerc.ac.uk/collection/P01/current/TURBXXXX/"
+    sdn_uom_uri: "https://vocab.nerc.ac.uk/collection/P06/current/USTU/"
+    standard_name: "sea_water_turbidity"

@@ -1,0 +1,31 @@
+variables:
+  AIRT:
+    long_name: "Air temperature"
+    sdn_parameter_uri: "https://vocab.nerc.ac.uk/collection/P01/current/CTMPZZ01/"
+    sdn_uom_uri: "http://vocab.nerc.ac.uk/collection/P06/current/UPAA/"
+    standard_name: "air_temperature"
+  ATMP:
+    long_name: "Atmospheric pressure at altitude"
+    sdn_parameter_uri: "http://vocab.nerc.ac.uk/collection/P01/current/CAPHZZ01/"
+    sdn_uom_uri: "http://vocab.nerc.ac.uk/collection/P06/current/UPBB/"
+    standard_name: "air_pressure"
+  RELH:
+    long_name: "Relative humidity"
+    sdn_parameter_uri: "https://vocab.nerc.ac.uk/collection/P01/current/CRELZZ01/"
+    sdn_uom_uri: "http://vocab.nerc.ac.uk/collection/P06/current/UPCT/"
+    standard_name: "relative_humidity"
+  WDIR:
+    long_name: "Wind from direction relative true north"
+    sdn_parameter_uri: "https://vocab.nerc.ac.uk/collection/P01/current/EWDAZZ01/"
+    sdn_uom_uri: "https://vocab.nerc.ac.uk/collection/P06/current/UABB/"
+    standard_name: "wind_from_direction"
+  WSPD:
+    long_name: "Horizontal wind speed"
+    sdn_parameter_uri: "https://vocab.nerc.ac.uk/collection/P01/current/EWSBZZ01/"
+    sdn_uom_uri: "https://vocab.nerc.ac.uk/collection/P06/current/UVAA/"
+    standard_name: "wind_speed"
+  LGH4:
+    long_name: "Photosynthetically active radiation (PAR)"
+    sdn_parameter_uri: "http://vocab.nerc.ac.uk/collection/P01/current/IRRDSV01/"
+    sdn_uom_uri: "http://vocab.nerc.ac.uk/collection/P06/current/UM2S/"
+    standard_name: "surface_downwelling_photosynthetic_photon_flux_in_air"

@@ -1,0 +1,19 @@
+sensors:
+  seabirdscientific_SN9227:
+    variable_type: "sensor"
+    long_name: "Sea-Bird SBE 37 MicroCat SMP-CT with optional pressure (submersible)\
+      \ CTD sensor series"
+    sensor_id: "seabirdscientific_SN9227"
+    sensor_mount: "mounted_on_surface_buoy"
+    sdn_instrument_name: "Sea-Bird SBE 37 MicroCat SMP-CT with optional pressure (submersible)\
+      \ CTD sensor series"
+    sdn_instrument_urn: "SDN:L22::TOOL0018"
+    sdn_instrument_uri: "http://vocab.nerc.ac.uk/collection/L22/current/TOOL0018/"
+    sensor_type_name: "CTD"
+    sensor_type_urn: "SDN:L05::130"
+    sensor_type_uri: "http://vocab.nerc.ac.uk/collection/L05/current/130/"
+    sensor_serial_number: "9227"
+    sensor_SeaVoX_L22_code: "SDN:L22::TOOL0018"
+    sensor_manufacturer_name: "Sea-Bird Scientific"
+    sensor_manufacturer_uri: "http://vocab.nerc.ac.uk/collection/L35/current/MAN0013/"
+    sensor_manufacturer_urn: "SDN:L35::MAN0013"

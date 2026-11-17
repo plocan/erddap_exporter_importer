@@ -1,0 +1,12 @@
+platforms:
+  ESTOC_ODAS_Mooring_Platform:
+    variable_type: "platform"
+    long_name: "ESTOC ODAS Mooring Platform"
+    platform_id: "ESTOC_ODAS_Mooring_Platform"
+    platform_type_name: "mooring"
+    platform_type_urn: "SDN:L06::48"
+    platform_type_uri: "http://vocab.nerc.ac.uk/collection/L06/current/48/"
+    emso_platform_name: "ODAS Mooring Platform"
+    emso_platform_uri: "https://w3id.org/earthsemantics/OSO#ODAS_Mooring_Platform"
+    latitude: 29.177
+    longitude: -15.518

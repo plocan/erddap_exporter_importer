@@ -1,0 +1,19 @@
+sensors:
+  wetlabs_SNFLNTUSB3869:
+    variable_type: "sensor"
+    long_name: "WET Labs {Sea-Bird WETLabs} ECO FLNTU combined fluorometer and turbidity\
+      \ sensor"
+    sensor_id: "wetlabs_SNFLNTUSB3869"
+    sensor_mount: "mounted_on_mooring_line"
+    sdn_instrument_name: "WET Labs {Sea-Bird WETLabs} ECO FLNTU combined fluorometer\
+      \ and turbidity sensor"
+    sdn_instrument_urn: "SDN:L22::TOOL0215"
+    sdn_instrument_uri: "http://vocab.nerc.ac.uk/collection/L22/current/TOOL0215/"
+    sensor_type_name: "fluorometers"
+    sensor_type_urn: "SDN:L05::113"
+    sensor_type_uri: "http://vocab.nerc.ac.uk/collection/L05/current/113/"
+    sensor_serial_number: "FLNTUSB-3869"
+    sensor_SeaVoX_L22_code: "SDN:L22::TOOL0215"
+    sensor_manufacturer_name: "WET Labs"
+    sensor_manufacturer_uri: "http://vocab.nerc.ac.uk/collection/L35/current/MAN0026/"
+    sensor_manufacturer_urn: "SDN:L35::MAN0026"
